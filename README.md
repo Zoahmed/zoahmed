@@ -3,3 +3,4 @@
 - 🔍 I’m currently a Machine Learning Engineer in Spotify's R&D Division,
 - 🧪 I'm also an ML Researcher in Computer Vision at Imperial College London, where I work on 3D pose estimation and 2D to 3D models.
 - 📫 How to reach me: zo.97.ahmed@gmail.com
+- PS: I use another repo for research purposes, which you can find at https://github.com/zoahmed-97
